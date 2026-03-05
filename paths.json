@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/xwalk-nps/:/"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/xwalk-nps/"
   ]
 }
