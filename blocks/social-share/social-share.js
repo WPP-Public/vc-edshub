@@ -40,7 +40,7 @@ export default function decorate(block) {
   if (copyBtn && navigator.clipboard) {
     copyBtn.addEventListener('click', () => {
       navigator.clipboard.writeText(fullUrl);
-      alert('Link copied!');
+      console.log('Link copied!');
     });
   }
 }
