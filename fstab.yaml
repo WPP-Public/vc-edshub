@@ -1,5 +1,3 @@
 mountpoints:
   /:
     url: "https://author-p35060-e135910.adobeaemcloud.com/bin/franklin.delivery/WPP-Public/vc-edshub/main"
-    type: "markup"
-    suffix: ".html"
